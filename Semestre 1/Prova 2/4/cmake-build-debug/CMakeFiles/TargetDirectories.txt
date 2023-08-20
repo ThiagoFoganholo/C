@@ -1,0 +1,3 @@
+C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Prova 2/4/cmake-build-debug/CMakeFiles/4.dir
+C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Prova 2/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Prova 2/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
