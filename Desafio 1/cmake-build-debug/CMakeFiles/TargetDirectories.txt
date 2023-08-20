@@ -1,3 +1,0 @@
-C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Desafio/cmake-build-debug/CMakeFiles/Desafio.dir
-C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Desafio/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Thiago/Documents/ADS/1 semestre/ALgoritmos e Logica de Programacao/Desafio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
